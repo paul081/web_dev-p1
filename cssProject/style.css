@@ -1,0 +1,23 @@
+h3{
+    font-weight: normal;
+}
+#red{
+    color: red;
+}
+#blue{
+color: rgb(4, 150, 155);
+}
+#orange{
+    color: rgb(233, 185, 29);
+}
+#green{
+    color: green;
+
+}
+#yellow{
+    color: yellow;
+}
+.color-items{
+    height: 200px;
+    width: 200px;
+} 

@@ -1,0 +1,27 @@
+body{
+    background-color: black; 
+
+}
+h1{
+    text-transform: uppercase;
+    font-family: sans-serif;
+    color: white;
+    font-size: 3rem;
+    
+
+}
+h3{
+    font-family: "Great Vibes", cursive;
+    color: white;
+}
+.mv-poster{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+   
+}
+img{
+    border: 2px solid white;
+    width: 100%;
+}
